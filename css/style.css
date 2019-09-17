@@ -1,0 +1,26 @@
+body {
+    font-family: giddyup-std, sans-serif;
+    color: #dfe0e2;
+    font-weight: 400;
+    font-size: 49px;
+    font-style: normal;
+    background: rgb(255,142,167); 
+    background: linear-gradient(180deg, rgba(255,142,167,1) 0%, rgba(230,104,132,1) 50%, rgba(182,81,104,1) 100%);
+    max-width: 2560px;
+    max-height: 2005px;
+    min-width: 320px;
+    min-height: 702px;
+    
+}
+
+.header {
+    max-width: 960px;
+    position: absolute;
+}
+
+.laptopandwords {
+    max-width: 960px;}
+.bkg1 {
+    /* -webkit-transform: none; */
+    max-width: 960px;
+}
